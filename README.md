@@ -1,4 +1,4 @@
-[![jjangga0214's github stats](https://github-readme-stats.vercel.app/api?username=jjangga0214&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![jjangga0214's github stats](https://github-readme-stats.vercel.app/api?username=jjangga0214&show_icons=true&theme=dracula)
 
 * *The stat only counts public activity.*
 * *The stat is generously powered by [vercel](https://vercel.com/).*
